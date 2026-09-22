@@ -1,26 +1,6 @@
 
 
 
-
-## 3. hoofdinhoud (main)
-
-* Voeg een `<main>`-element toe aan je pagina.
-* Binnen het `<main>`-element, schrijf de hoofdinhoud van je webpagina met behulp van relevante semantische HTML5- elementen, zoals `<article>`, `<section>`, `<h1>`, `<h2>`, `<p>`, en eventueel `<figure>` met `<figcaption>` voor afbeeldingen
-
-## 4. terzijde (aside)
-
-Voeg een zijbalk toe en gebruik hiervoor een `<aside>`-element. Zet in de zijbalk contactinfomatie en maak hierbij gebruik van het `<address>`-element met de volgende gegevens:
-* adres: [Voeg een fictief adres in]
-* telefoonnummer: link naar een fictief telefoonnummer waarbij het telefoonnummer zelf als klikbare link wordt weergegeven.
-* e-mail: link naar het e-mailadres "lector@ap.be", waarbij het emailadres zelf als klikbare link wordt weergegeven.
-
-## 5. footer
-Voeg een `<footer>`-element toe onderaan je pagina. Plaats hierin volgende informatie:
-* een voettekst met een copyright-teken jaar AP-Hogeschool
-* op de tekst "AP-Hogeschool" plaats je een link naar de website van de school die zal openen in een nieuw venster
-
-> TIP: een horizontale lijn kan je toevoegen met het `<hr>`-element
-
 ## 6. afbeeldingen
 Voeg afbeeldingen toe:
 * in de header het logo
